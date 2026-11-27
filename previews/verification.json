@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "mode": "ripple",
+      "drawnPixels": 4670,
+      "toggle": true,
+      "reducedMotion": true,
+      "mobile": {
+        "width": 375,
+        "scroll": 375,
+        "canvasHidden": true
+      }
+    },
+    {
+      "mode": "contour",
+      "drawnPixels": 4057,
+      "toggle": true,
+      "reducedMotion": true,
+      "mobile": {
+        "width": 375,
+        "scroll": 375,
+        "canvasHidden": true
+      }
+    },
+    {
+      "mode": "bloom",
+      "drawnPixels": 4395,
+      "toggle": true,
+      "reducedMotion": true,
+      "mobile": {
+        "width": 375,
+        "scroll": 375,
+        "canvasHidden": true
+      }
+    }
+  ],
+  "consoleErrors": []
+}
