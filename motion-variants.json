@@ -1,0 +1,20 @@
+{
+  "original_sha256": "4389f7b49e2c804144b658ec9e2385c1abd335d1c5bf5dc6a4142d861935c8a1",
+  "versions": [
+    {
+      "file": "motion-ripple.html",
+      "name": "蓝色涟漪",
+      "description": "轻盈的双层水波沿鼠标轨迹扩散，约 1 秒后消隐。"
+    },
+    {
+      "file": "motion-contour.html",
+      "name": "遥感等高线",
+      "description": "不规则等高线沿轨迹浮现，呼应遥感、GIS 与空间分析。"
+    },
+    {
+      "file": "motion-bloom.html",
+      "name": "克莱因蓝小花",
+      "description": "细线五瓣花依次绽放、轻旋并淡出，呼应农业与生态背景。"
+    }
+  ]
+}
